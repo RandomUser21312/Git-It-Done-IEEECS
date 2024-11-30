@@ -5,7 +5,8 @@ Adding two numbers
 
 #include <stdio.h>
 
-main() {
+main() 
+{
     int number;
     float amount;
 
